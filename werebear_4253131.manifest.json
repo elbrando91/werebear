@@ -1,0 +1,113 @@
+{
+	"fileDataID": 4253101,
+	"textures": [
+		{
+			"fileDataID": 4253127,
+			"file": "werebear_4253127.blp"
+		},
+		{
+			"fileDataID": 4253128,
+			"file": "werebear_4253128.blp"
+		},
+		{
+			"fileDataID": 4253129,
+			"file": "werebear_4253129.blp"
+		},
+		{
+			"fileDataID": 4253130,
+			"file": "werebear_4253130.blp"
+		},
+		{
+			"fileDataID": 4253131,
+			"file": "werebear_4253131.blp"
+		},
+		{
+			"fileDataID": 4253132,
+			"file": "werebear_4253132.blp"
+		},
+		{
+			"fileDataID": 4253133,
+			"file": "werebear_4253133.blp"
+		},
+		{
+			"fileDataID": 4253134,
+			"file": "werebear_4253134.blp"
+		}
+	],
+	"skins": [
+		{
+			"fileDataID": 4253144,
+			"file": "werebear00.skin"
+		}
+	],
+	"lodSkins": [
+		{
+			"fileDataID": 4253145,
+			"file": "werebear_lod01.skin"
+		},
+		{
+			"fileDataID": 4253146,
+			"file": "werebear_lod02.skin"
+		},
+		{
+			"fileDataID": 4253147,
+			"file": "werebear_lod03.skin"
+		}
+	],
+	"anims": [
+		{
+			"fileDataID": 4253135,
+			"file": "werebear0062-00.anim",
+			"animID": 62,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253136,
+			"file": "werebear0097-00.anim",
+			"animID": 97,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253137,
+			"file": "werebear0128-00.anim",
+			"animID": 128,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253138,
+			"file": "werebear0061-00.anim",
+			"animID": 61,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253139,
+			"file": "werebear0129-00.anim",
+			"animID": 129,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253140,
+			"file": "werebear0123-00.anim",
+			"animID": 123,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253141,
+			"file": "werebear0069-00.anim",
+			"animID": 69,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253142,
+			"file": "werebear0098-00.anim",
+			"animID": 98,
+			"subAnimID": 0
+		},
+		{
+			"fileDataID": 4253143,
+			"file": "werebear0096-00.anim",
+			"animID": 96,
+			"subAnimID": 0
+		}
+	]
+}
